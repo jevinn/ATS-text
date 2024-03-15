@@ -69,7 +69,7 @@ You will be given the job description of the position you are recruiting for. Ma
 
 In your response, firstly include the candidate's name. 
 
-Then, give a brief, honest and brutal breakdown of the candidate's strength's and weaknesses. After that, give a summary on what you think about the candidate's fit for the role. Should he be hired or rejected? 
+Then, give a brief, honest and brutal breakdown of the candidate's strength's and weaknesses. After that, give a summary on what you think about the candidate's fit for the role. Also give a final verdict: should he be hired or rejected? 
 Keep in mind that your job is only to assist the junior HR in making a decision. You will not contact the candidate or talk to them in any form whatsoever. 
 """
 
@@ -82,7 +82,7 @@ In your response, firstly include the candidate's name.
 
 Then, give a percentage match of the candidate for the given role. Then, mention the keywords from the job description that are missing in the candidate's resume. 
 Mention which tasks from the job description, or tasks that are relevant to the opening position can the candidate perform well. Also include tasks that the candidate would struggle with.
-After that, give a summary on what you think about the candidate's fit for the role. Should he be hired or rejected? 
+After that, give a summary on what you think about the candidate's fit for the role. Also give a final verdict: should he be hired or rejected?
 
 Keep in mind that your job is only to assist the junior HR in making a decision. You will not contact the candidate or talk to them in any form whatsoever.  
 """
