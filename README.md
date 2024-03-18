@@ -28,7 +28,7 @@ ATS Resume Expert is a Streamlit application that utilizes Google's Generative A
 
 1. Run the Streamlit application:
    ```
-   streamlit run app.py
+   streamlit run g-pro.py
    ```
 3. Open the application in your web browser.
 4. Enter the job description in the provided text area.
